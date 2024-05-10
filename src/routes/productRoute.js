@@ -14,4 +14,5 @@ productRoute.get("/getAll", getAll);
 productRoute.get("/findOne/:name", findOne);
 productRoute.delete("/delete/:id", deleteProduct);
 productRoute.put("/update/:id", update);
+
 export default productRoute;
