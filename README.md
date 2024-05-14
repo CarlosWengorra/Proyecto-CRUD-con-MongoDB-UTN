@@ -4,7 +4,7 @@
 
 # ¿Qué hace?
 
-Este proyecto te permite gestionar cosas de bebés. Puedes agregar, ver, actualizar y eliminar productos, usuarios y categorías. ¡Es como un supermercado, pero para bebés!
+Este proyecto te permite gestionar cosas. Puedes agregar, ver, actualizar y eliminar productos, usuarios y categorías. ¡Es como un supermercado!
 
 # Funcionalidades Principales:
 
